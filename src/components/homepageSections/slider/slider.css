@@ -247,7 +247,8 @@ body {
 
 .slider-controler .slider-arrow ion-icon {
   font-size: 2rem;
-  color: #222224;
+  color: #000000;
+
 }
 
 .slider-controler .slider-arrow::after {

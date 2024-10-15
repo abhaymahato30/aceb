@@ -148,11 +148,11 @@ const SliderTwo = () => {
         ))}
 
 <div className="slider-controler">
-          <div className="swiper-button-prev slider-arrow">
-            <ion-icon name="arrow-back-outline"></ion-icon>
+          <div className="swiper-button-prev slider-arrow text-black">
+          <img width="15" height="15" src="https://img.icons8.com/ios-filled/50/chevron-left.png" alt="chevron-left"/>
           </div>
           <div className="swiper-button-next slider-arrow">
-            <ion-icon name="arrow-forward-outline"></ion-icon>
+          <img width="15" height="15" src="https://img.icons8.com/ios-filled/50/chevron-right.png" alt="chevron-right"/>
           </div>
           <div className="swiper-pagination"></div>
         </div>
