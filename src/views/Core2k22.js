@@ -17,11 +17,11 @@ import pradeep from "../assets/images/2k22/pradeep.jpg";
 import priyanshu from "../assets/images/2k22/priyanshu2.jpg";
 import rahulkali from "../assets/images/2k22/rahulkalindi.jpg";
 import riyagupta from "../assets/images/2k22/riyagupta.jpg";
-import shipra from "../assets/images/2k22/shipra.jpg";
+import shipra from "../assets/images/2k22/shipra.jpeg";
 import sumit from "../assets/images/2k22/sumit.jpg";
 import anjali from "../assets/images/2k22/anjali.jpg"
 import divyanshu from "../assets/images/2k22/divyanshu.jpg"
-import harshita from "../assets/images/2k22/harshita.jpg"
+import harshita from "../assets/images/2k22/harshita.jpeg"
 import jaipraksh from "../assets/images/2k22/jaiprakash.jpeg"
 import jaydeep from "../assets/images/2k22/jaydeep.jpg"
 import manish from "../assets/images/2k22/manish3.jpg"
@@ -32,6 +32,12 @@ import shraban from "../assets/images/2k22/shraban.jpg"
 import shubham from "../assets/images/2k22/shubhamp.jpg"
 import sneha from "../assets/images/2k22/sneha.jpg"
 import upen from "../assets/images/2k22/upen.png"
+import rimil from "../assets/images/2k22/rimilhansda.jpg"
+import shubhams from "../assets/images/2k22/shubhams.jpeg"
+import swami from "../assets/images/2k22/priyaswami.jpeg"
+
+
+
 
 
 const Core = () => {
@@ -96,6 +102,7 @@ const Core = () => {
 
 
 const data = [
+   
     {
         "email": "muskanprakriti@gmail.com",
         "name": "Muskan Prakriti",
@@ -106,6 +113,17 @@ const data = [
         ],
         "linkedin": "https://www.linkedin.com/in/muskan-prakriti-b3a68a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "photo": muskan
+    },
+
+    {
+        "email": "#",
+        "name": "Shubham Kr Singh",
+        "batch": "2022-26",
+        "teams": [
+            "Industrial relation team "
+        ],
+        "linkedin": "https://www.linkedin.com/in/shubham-kumar-singh-74793924b/",
+        "photo": shubhams
     },
     {
         "email": "divyanshukumar0789@gmail.com",
@@ -152,6 +170,17 @@ const data = [
         "photo": riyagupta
     },
     {
+        "email": "muskanprakriti@gmail.com",
+        "name": "Harshita Kashyap",
+        "batch": "2022-26",
+        "teams": [
+            "Operation Team , ",
+            
+        ],
+        "linkedin": "https://www.linkedin.com/in/harshita-kashyap-bitsindri",
+        "photo": harshita
+    },
+    {
         "email": "shiprakumari@example.com",
         "name": "Shipra Kumari",
         "batch": "2022-26",
@@ -168,7 +197,7 @@ const data = [
         "teams": [
             "Ideation Team"
         ],
-        "linkedin": "#",
+        "linkedin": "https://www.linkedin.com/in/aryan-kumar-9b82b8243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "photo": aryan
     },
     {
@@ -212,16 +241,7 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/rahul-kalindi-a2a28224b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "photo": rahulkali
     },
-    {
-        "email": "shubhamk.singh@example.com",
-        "name": "Shubham Kr. Singh",
-        "batch": "2022-26",
-        "teams": [
-            "Industrial Relations Team"
-        ],
-        "linkedin": "#",
-        "photo": shubham
-    },
+   
     {
         "email": "sneharaj22042005@gmail.com",
         "name": "Sneha Raj",
@@ -295,6 +315,16 @@ const data = [
         "photo": kuwar
     },
     {
+        "email": "#",
+        "name": "Deepak Prakash",
+        "batch": "2022-26",
+        "teams": [
+            "Operational Team  "
+        ],
+        "linkedin": "https://www.linkedin.com/in/deepak-prakash-702ba3256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "photo": deepakp
+    },
+    {
         "email": "prince.kumar@example.com",
         "name": "Prince Kumar",
         "batch": "2022-26",
@@ -311,8 +341,8 @@ const data = [
         "teams": [
             "Public Relations Team"
         ],
-        "linkedin": "#",
-        "photo": "#"
+        "linkedin": "https://www.linkedin.com/in/priyaswami001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "photo": swami
     },
     {
         "email": "rimilhansda@example.com",
@@ -321,8 +351,8 @@ const data = [
         "teams": [
             "Sponsorship Team"
         ],
-        "linkedin": "#",
-        "photo": "#"
+        "linkedin": "https://in.linkedin.com/in/rimil-hansda-702b24256",
+        "photo": rimil
     },
     {
         "email": "sahilbharti@example.com",
@@ -360,8 +390,8 @@ const data = [
         "name": "Sushant Abhishek",
         "batch": "2022-26",
         "teams": [
-            "Alumni Relations Team",
-            "Industrial Relations Team"
+            "Alumni Relations Team,",
+            " Industrial Relations Team"
         ],
         "linkedin": "#",
         "photo": "#"
