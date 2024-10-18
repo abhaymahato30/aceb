@@ -35,6 +35,8 @@ import upen from "../assets/images/2k22/upen.png"
 import rimil from "../assets/images/2k22/rimilhansda.jpg"
 import shubhams from "../assets/images/2k22/shubhams.jpeg"
 import swami from "../assets/images/2k22/priyaswami.jpeg"
+import sushant from "../assets/images/2k22/sushant.jpeg"
+import sohel from "../assets/images/2k22/sohel.jpeg"
 
 
 
@@ -135,6 +137,16 @@ const data = [
         ],
         "linkedin": "https://www.linkedin.com/in/divyanshu-kumar-7b4416263",
         "photo": divyanshu
+    },
+    {
+        "email": "#",
+        "name": "Deepak Prakash",
+        "batch": "2022-26",
+        "teams": [
+            "Operational Team  "
+        ],
+        "linkedin": "https://www.linkedin.com/in/deepak-prakash-702ba3256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "photo": deepakp
     },
    
     {
@@ -314,16 +326,7 @@ const data = [
         "linkedin": "#",
         "photo": kuwar
     },
-    {
-        "email": "#",
-        "name": "Deepak Prakash",
-        "batch": "2022-26",
-        "teams": [
-            "Operational Team  "
-        ],
-        "linkedin": "https://www.linkedin.com/in/deepak-prakash-702ba3256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "photo": deepakp
-    },
+
     {
         "email": "prince.kumar@example.com",
         "name": "Prince Kumar",
@@ -372,18 +375,7 @@ const data = [
             "Sports and Cultural Team"
         ],
         "linkedin": "#",
-        "photo": "#"
-    },
-    
-    {
-        "email": "princy.kumarijha@example.com",
-        "name": "Princy Kumari Jha",
-        "batch": "2022-26",
-        "teams": [
-            "Alumni Relations Team"
-        ],
-        "linkedin": "#",
-        "photo": "#"
+        "photo": sohel
     },
     {
         "email": "sushantabhishek@example.com",
@@ -393,9 +385,20 @@ const data = [
             "Alumni Relations Team,",
             " Industrial Relations Team"
         ],
+        "linkedin": "https://www.linkedin.com/in/sushant-singh-860095258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "photo": sushant
+    },
+    {
+        "email": "princy.kumarijha@example.com",
+        "name": "Princy Kumari Jha",
+        "batch": "2022-26",
+        "teams": [
+            "Alumni Relations Team"
+        ],
         "linkedin": "#",
         "photo": "#"
     }
+   
 ]
 
 
