@@ -38,7 +38,7 @@ const Core = () => {
     return (
       <>
         <div className="post-bearer my-3">
-          <h3 className="post-bearer-heading">Coordinators 2023-2024</h3>
+          <h3 className="post-bearer-heading">Core Members:Incharge 2024-2025</h3>
         </div>
         {/*  */}
         

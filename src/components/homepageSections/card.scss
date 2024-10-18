@@ -38,6 +38,11 @@ $color-box-7 : #de8b3e;
   height: 500px;
   font-family: 'Do Hyeon', sans-serif;
   overflow: hidden;
+  @media screen and (min-width: 300px) and (max-width: 599px) {
+    
+    height: 350px;
+   
+  }
 
 
   .cards {
@@ -61,8 +66,9 @@ $color-box-7 : #de8b3e;
     @media screen and (min-width: 300px) and (max-width: 599px) {
       width: 400px;
       height: 100%;
-      .img{
-        height: fit-content;
+      img{
+        height:350px;
+        width: 300px;
       }
     }
    

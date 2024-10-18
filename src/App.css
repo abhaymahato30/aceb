@@ -113,11 +113,16 @@
 
 /* post bearer */
 .post-bearer{
-    padding: 20px;
+    padding: 12px;
     display: flex;
     justify-content: center;
     background-color: var(--e-global-color-ddb3226);
     margin-bottom: -80px;
+    @media (max-width:360px) and (min-width:318px) {
+     padding: 6px;
+     
+      
+    }
 }
 .post-bearer-heading{
     font-size: 1.8rem;
@@ -128,7 +133,7 @@
     font-style: normal;
 }
 .post-bearer-container{
-    margin-top: 15%;
+    margin-top: 10%;
 }
 /* parallex */
 /* image one */

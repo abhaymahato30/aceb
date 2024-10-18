@@ -78,7 +78,7 @@ const Card = ({ title, content, imgUrl }) => (
     </div>
     <div className="S_card-content">
       <h2 className="S_head">{title}</h2>
-      {/* <p>{content}</p> */}
+    
     </div>
   </div>
 );
@@ -101,7 +101,7 @@ const SliderTwo = () => {
         pagination={{
           dynamicBullets: true,
         }}
-        // navigation={true}
+        
         modules={[Pagination, Navigation]}
         className="mySwiper"
 
@@ -118,29 +118,17 @@ const SliderTwo = () => {
     
         }}
 
-        // effect={'coverflow'}
-        // grabCursor={true}
-        // centeredSlides={true}
-        // loop={true}
-        // slidesPerView={'auto'}
-        // coverflowEffect={{
-        //   rotate: 0,
-        //   stretch: 0,
-        //   depth: 100,
-        //   modifier: 2.5,
-        // }}
-        // pagination={{ el: '.swiper-pagination', clickable: true }}
+        
         navigation={{
           nextEl: '.swiper-button-next',
           prevEl: '.swiper-button-prev',
           clickable: true,
         }}
-        // modules={[EffectCoverflow, Pagination, Navigation]}
-        // className="swiper_container"
+ 
      
       >
         {cardsData.map((card, index) => (
-          <SwiperSlide>
+          <SwiperSlide className="swiperslide">
             <div key={card.id}>
               <Card {...card} />
             </div>
