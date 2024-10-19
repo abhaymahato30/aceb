@@ -37,6 +37,8 @@ import shubhams from "../assets/images/2k22/shubhams.jpeg"
 import swami from "../assets/images/2k22/priyaswami.jpeg"
 import sushant from "../assets/images/2k22/sushant.jpeg"
 import sohel from "../assets/images/2k22/sohel.jpeg"
+import sahil from "../assets/images/2k22/sahil.jpeg"
+
 
 
 
@@ -132,11 +134,24 @@ const data = [
         "name": "Divyanshu Kumar",
         "batch": "2022-26",
         "teams": [
-            "Sponsorship Team, ",
-            "Marketing Team"
+            "counselling Team ,",
+            " sponsorship Team"
+            
         ],
         "linkedin": "https://www.linkedin.com/in/divyanshu-kumar-7b4416263",
         "photo": divyanshu
+    },
+    {
+        "email": "divyanshukumar0789@gmail.com",
+        "name": "Divyanshu Kr Singh",
+        "batch": "2022-26",
+        "teams": [
+            "GATE-ESE Forum,",
+            "Marketing Team"
+            
+        ],
+        "linkedin": "https://www.linkedin.com/in/divyanshu-kumar-singh-6aa47025b/",
+        "photo": divyanshus
     },
     {
         "email": "#",
@@ -186,7 +201,7 @@ const data = [
         "name": "Harshita Kashyap",
         "batch": "2022-26",
         "teams": [
-            "Operation Team , ",
+            "Operational Team , ",
             
         ],
         "linkedin": "https://www.linkedin.com/in/harshita-kashyap-bitsindri",
@@ -197,7 +212,7 @@ const data = [
         "name": "Shipra Kumari",
         "batch": "2022-26",
         "teams": [
-            "Public Relations Team"
+            "operational Team & Public Relations Team"
         ],
         "linkedin": "https://www.linkedin.com/in/shipra-kumari-104095257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "photo": shipra
@@ -281,7 +296,7 @@ const data = [
         "teams": [
             "Editorial Team"
         ],
-        "linkedin": "#",
+        "linkedin": "https://www.linkedin.com/in/rahul-kumar2802/",
         "photo": rahul
     },
     {
@@ -311,9 +326,9 @@ const data = [
         "name": "Upen Mahto",
         "batch": "2022-26",
         "teams": [
-            "Gate-ESE Forum"
+            "GATE-ESE Forum"
         ],
-        "linkedin": "#",
+        "linkedin": "https://www.linkedin.com/in/upen-mahto-6325a9257/",
         "photo": upen
     },
     {
@@ -323,7 +338,7 @@ const data = [
         "teams": [
             "Research & Project Application Team"
         ],
-        "linkedin": "#",
+        "linkedin": "https://www.linkedin.com/in/kuwar-singh28/",
         "photo": kuwar
     },
 
@@ -334,7 +349,7 @@ const data = [
         "teams": [
             "Research & Project Application Team"
         ],
-        "linkedin": "#",
+        "linkedin": "https://www.linkedin.com/in/prince-kumar-aaa442304/",
         "photo": prince
     },
     {
@@ -364,8 +379,8 @@ const data = [
         "teams": [
             "Sponsorship Team"
         ],
-        "linkedin": "#",
-        "photo": "#"
+        "linkedin": "https://www.linkedin.com/in/sahil-bharti-05a086318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "photo": sahil
     },
     {
         "email": "mdsohelakhtar@example.com",
