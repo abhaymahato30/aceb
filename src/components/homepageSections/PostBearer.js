@@ -142,7 +142,7 @@ const data = [
   {
     name: `Ajay Mahato`,
     img: (sc),
-    review: `Secretry`,
+    review: `Secretary`,
     url: ('https://www.linkedin.com/in/ajay-mahato-8a7446230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app')
   },
   {
